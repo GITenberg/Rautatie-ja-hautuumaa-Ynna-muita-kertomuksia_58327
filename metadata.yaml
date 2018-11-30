@@ -1,5 +1,5 @@
 _repo: Rautatie-ja-hautuumaa-Ynna-muita-kertomuksia_58327
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Suppanen, Alma
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '6629'
     url: http://www.gutenberg.org/2009/agents/6629
     wikipedia: http://fi.wikipedia.org/wiki/Alma_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58327#Rautatie-ja-hautuumaa-Ynna-muita-kertomuksia
 gutenberg_issued: '2018-11-23'
 gutenberg_type: Text
 identifiers:
